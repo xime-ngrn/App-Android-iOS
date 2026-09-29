@@ -13,7 +13,7 @@
 
 ## Capturas de pantalla
 
-> Las imágenes están en `docs/capturas/android/` y `docs/capturas/ios/`.
+> Las imágenes están en `docs/android/` y `docs/ios/`.
 
 | Funcionalidad | Android | iOS |
 |:---: | :---: |:---:|
