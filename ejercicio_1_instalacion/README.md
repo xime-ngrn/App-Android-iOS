@@ -42,7 +42,7 @@
 
 | Funcionalidad | Evidencia |
 |:---:|:---:|
-| Instalación de Xcode y ejecución de un proyecto de prueba en el Simulador de iPhone 17 (iOS 27.0) | <img src="docs/captura_instalacion_xcode.png" width="320"> |
+| Instalación de Xcode y ejecución de un proyecto de prueba en el Simulador de iPhone 17 (iOS 27.0) | <img src="docs/instalacion.png" width="320"> |
 
 El mensaje `non-launching port is incompatible with service identifier "com.apple.PointerUI.pointeruid.default-service"` que aparece en la consola es un aviso normal y sin impacto del propio Simulador de iOS (relacionado con el puntero del mouse en el simulador), no un error de la aplicación ni de la instalación.
 
