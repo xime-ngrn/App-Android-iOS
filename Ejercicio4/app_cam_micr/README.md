@@ -15,8 +15,6 @@
 
 > Las imágenes están en `docs/capturas/android/` y `docs/capturas/ios/`.
 
-### Cámara
-
 | Funcionalidad | Android | iOS |
 |:---: | :---: |:---:|
 | Captura de fotos | <img src="docs/android/camara.png" width="220"> | <img src="docs/ios/camara.png" width="220"> |
