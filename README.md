@@ -19,9 +19,14 @@ Desarrollo de una aplicacion móvil nativa para el ecosistema Android y Apple, i
 ├── Ejercicio2/        Gestor de archivos con iOS
 ├── Ejercicio3/        Aplicación de cámara y micrófono con iOS
 ├── Ejercicio4/        Aplicación de cámara y micrófono con Flutter (Android y iOS)
-├── Ejercicio5/        Gestor de archivos con Flutter (Android y iOS)
 └── README.md
 ```
+
+## índice
+* [`Ejercicio1/`](ejercicio_1_instalacion/README.md)
+* [`Ejercicio2/`](ejercicio_2_gestor_archivos/README.md)
+* [`Ejercicio3/`](ejercicio_3_camara_microfono/CamaraMicrofono/CamaraMicrofono/README.md)
+* [`Ejercicio4/`](Ejercicio4/app_cam_micr/README.md)
 
 ## Forma de trabajo
 Para evitar sobreescrituras y gestionar los tiempos del equipo con una clara coordinación, se realiza la implementación de **ramas enfocadas en tareas**. Cada persona crea una rama específica para la tarea concreta que se desea resolver, cuando la rama contenga todo el desarrollo de la tarea que almacena, se abre un **Pull request** para integrar sus cambios a la rama principal *master*, alguno de los compañeros que no trabajo en la rama realiza su revisión.
