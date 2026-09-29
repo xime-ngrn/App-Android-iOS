@@ -24,7 +24,7 @@ Desarrollo de una aplicacion móvil nativa para el ecosistema Android y Apple, i
 
 ## índice
 * [`Ejercicio1/`](ejercicio_1_instalacion/README.md)
-* [`Ejercicio2/`](ejercicio_2_gestor_archivos/README.md)
+* [`Ejercicio2/`](ejercicio_2_gestor_archivos/GestorArchivos//README.md)
 * [`Ejercicio3/`](ejercicio_3_camara_microfono/CamaraMicrofono/CamaraMicrofono/README.md)
 * [`Ejercicio4/`](Ejercicio4/app_cam_micr/README.md)
 
